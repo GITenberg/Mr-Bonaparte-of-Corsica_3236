@@ -1,5 +1,8 @@
 _repo: Mr-Bonaparte-of-Corsica_3236
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bangs, John Kendrick
@@ -12,6 +15,8 @@ description: A humorous fictionalisation of the life of Napoleon Bonaparte writt
   by American author, editor and satirist John Kendrick Bangs.  Bangs was famous as
   the originator of so-called 'Bangsian fantasy', which follows famous historical
   figures' interactions in the afterlife.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3236#Mr-Bonaparte-of-Corsica
 gutenberg_issued: '2002-05-01'
 gutenberg_type: Text
 identifiers:
